@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Print_and_Variables_Python", "Print_and_Variables_Python\Print_and_Variables_Python.pyproj", "{D1F097BE-E20C-482A-868C-B43376784122}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1F097BE-E20C-482A-868C-B43376784122}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1F097BE-E20C-482A-868C-B43376784122}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7732EEA8-B0BA-4A1B-A4EF-49AB18C6157D}
+	EndGlobalSection
+EndGlobal
